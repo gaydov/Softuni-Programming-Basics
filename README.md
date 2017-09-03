@@ -22,7 +22,6 @@ The course gives initial programming skills:
 6. [Drawing Figures with Loops](https://github.com/gaydov/Softuni-Programming-Basics/tree/master/6DrawingWithLoops)
 7. [Advanced Loops](https://github.com/gaydov/Softuni-Programming-Basics/tree/master/7AdvancedLoops)
 
-### [Tasks' descriptions](https://drive.google.com/open?id=0B0i5AcwcQwXJd0Q2bHhLT2Jza1E)
 
 ## Exams
 
@@ -35,5 +34,3 @@ The course gives initial programming skills:
 * [Exam - 26 March 2016](https://github.com/gaydov/Softuni-Programming-Basics/tree/master/Exams/Exam-26th-March-2016)
 * [Exam - 28 August 2016](https://github.com/gaydov/Softuni-Programming-Basics/tree/master/Exams/Exam-28th-August-2016)
 * [Sample Coding 101 Exam - Jan 2016](https://github.com/gaydov/Softuni-Programming-Basics/tree/master/Exams/Sample-Coding-101-Exam-Jan-2016)
-
-### [Exams' descriptions](https://drive.google.com/open?id=0B0i5AcwcQwXJdFZ6b2JqMFhxb0k)
